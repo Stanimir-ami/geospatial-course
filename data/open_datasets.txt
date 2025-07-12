@@ -1,0 +1,4 @@
+GADM (Administrative boundaries): https://gadm.org/download_country_v3.html
+Corine Land Cover: https://land.copernicus.eu/pan-european/corine-land-cover
+OpenStreetMap Bulgaria (Geofabrik): https://download.geofabrik.de/europe/bulgaria.html
+INSPIRE open data Bulgaria: https://inspire.government.bg/
